@@ -11,7 +11,7 @@ I'm actually working on the tradebot that I want to share with this community an
 
 You can get the sound hier : https://www.dropbox.com/sh/ts0ur19znduvryx/yyh8GHFQWX
 
-Please leave me your coments and send me some BTC tip at : 12EYjZ1Bh2ay5GoFpGYiQvbvf3KEztnDSB
+Please leave me your coments and send me some BTC tip at : 1A42umF893jp3wf94juRhGArFQrqkdxnnM
 
 
 
