@@ -1,7 +1,9 @@
 Bitstamp.net price Alert with bitstamp-API
 ==========================================
 
-Hello everybody I'm making some softwares that interact with Bitcoin trading API like those provided by Bitstamp.net.
+Hello everybody,
+
+I'm making some softwares that interact with Bitcoin trading API like those provided by Bitstamp.net.
 
 I have create a script that generate a sound alert when the bid price reache a specific amount.
 
