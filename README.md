@@ -9,7 +9,7 @@ I have create a script that generate sounds alerts when the bid price reach a sp
 
 I'm actually working on the tradebot that I want to share with this community and it will be ready very son.
 
-https://www.dropbox.com/sh/ts0ur19znduvryx/yyh8GHFQWX
+You can get the sound hier : https://www.dropbox.com/sh/ts0ur19znduvryx/yyh8GHFQWX
 
 Please leave me your coments and send me some BTC tip at : 12EYjZ1Bh2ay5GoFpGYiQvbvf3KEztnDSB
 
