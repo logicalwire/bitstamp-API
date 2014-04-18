@@ -1,6 +1,9 @@
 <?php
 //THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+//Created following conejoninja methode from: https://github.com/conejoninja/bitstamp-php-api/blob/master/BitStampAPI.php
+
 //Activate the sound alert by creating a folder with name "sound" in the same folder that the php file "alerts.php" and "bitstamp.php" and put 2 wav file one named "alertmore.wav" and another named "alertless.wave".
+//Created following conejoninja methode from: https://github.com/conejoninja/bitstamp-php-api/blob/master/BitStampAPI.php
 //please send BTC at: 1A42umF893jp3wf94juRhGArFQrqkdxnnM
 
 class Bitstamp {
